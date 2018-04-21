@@ -1,0 +1,115 @@
+
+<html lang="pt-br">
+    
+    <head>
+        <meta charset="UFT-8">
+        <title>Historias.com</title>
+    </head> 
+    
+    <body bgcolor="silver">
+        
+        <center>
+            <h1><em>Historia Da Internet</em></h1>
+            
+            <h2>A história da internet começa no ambiente da Guerra Fria <em>(1945-1991)</em> onde as duas super potências envolvidas, Estados unidos e URSS, estavam divididos nos blocos socialista e capitalista e disputavam poderes e hegemonias.Nesse panorama, os Estados Unidos, temendo ataques da Rússia, criou um sistema de compartilhamento de informações, a fim de facilitar as estratégias de guerra.
+            </h2>
+            
+            <center><img src="Internet-na-guerra-Fria.jpg" alt="" width="580" height="350"></center>
+            
+            <h2>Nesse momento, surge o protótipo da primeira rede de internet, a <b>"Arpanet"</b> (Advanced Research Projects Agency Network). Assim, no dia 29 de outubro de 1969 foi estabelecida a primeira conexão entre a Universidade da Califórnia e o Instituto de Pesquisa de Stanford. Foi um momento histórico, uma vez que o primeiro <mark>e-mail</mark> foi enviado. Já na década de 90, o cientista, físico e professor britânico Tim Berners-Lee desenvolveu um navegador ou browser, a World Wide Web (www), a Rede Mundial de Computadores - Internet.
+            </h2>
+            
+            <center><img src="trabalho02.jpg" alt="" width="580" height="350"></center>
+            
+            <h3>A partir disso, a década de 90 ficou conhecida como o "boom da internet", pois foi quando ela se popularizou pelo mundo com o surgimento de novos browsers ou navegadores (Internet Explorer, Netscape, Mozilla Firefox, Google Chrome, Opera, Lynx) e o aumento do número de usuários, navegadores da internet.No Brasil, a Internet surgiu no final da década de 80, quando as Universidades brasileiras começam a compartilhar algumas informações com os Estados Unidos. Entretanto, foi a partir de 1989, quando fundou-se a Rede Nacional de Ensino e Pesquisa (RNP)
+            </h3>
+        </center>
+         
+    <fieldset>
+        <h2>As Duas Potencias Envolvidas</h2>
+    
+    <ul>
+        <li>Estados Unidos</li>
+        <li>Uniao Sovietica</li>  
+    </ul>
+        
+        <table>
+            <caption><h2>Evolucao Ao Decorrer Dos Anos</h2></caption>
+            <tr>
+                <th>Ano</th>
+                <th>Avanco</th>
+            </tr>
+            <tr>
+                <td>1946</td>
+                <td>Criado o ENIAC, primeiro computador digital eletronico </td>
+            </tr>
+            <tr>
+                <td>1957</td>
+                <td>Nasce a ARPA, agencia que cuida da tecnologia nos EUA na guerra fria</td>
+            </tr>
+            <tr>
+                <td>1961</td>
+                <td>Desenvolvimento da transmissao de dados por pacotes</td>
+            </tr>
+            <tr>
+                <td>1962</td>
+                <td>J.C.R Licklinder conceitua a chama "rede galactica" </td>
+            </tr>
+            <tr>
+                <td>1969</td>
+                <td>A primeira mensagem e transmitida em rede</td>
+            </tr>
+            <tr>
+                <td>1970</td>
+                <td>O termo internet e utilizado pela primeira vez do vinton cerf</td>
+            </tr>
+            <tr>
+                <td>1971</td>
+                <td>A idealizacao do email. A @ e incorporada no ano seguinte</td>
+            </tr>
+            <tr>
+                <td>1973</td>
+                <td>Primeira conexao intercontinental, entre EUA e Noruega </td>
+            </tr>
+            <tr>
+                <td>1977</td>
+                <td>Criacao do protocolo de transmissao TCP/IP </td>
+            </tr>
+            <tr>
+                <td>1978</td>
+                <td>A empresa DEC envia 393 emails para funcionarios da Arpanet. nasce o spam </td>
+            </tr>
+            <tr>
+                <td>1979</td>
+                <td>Criada a USENET, rede informal de compartilhamento de noticias e artigo</td>
+            </tr>
+            <tr>
+                <td>1981</td>
+                <td>lancado o PC da IBM</td>
+            </tr>
+            <tr>
+                <td>1983</td>
+                <td>A arpanet cria uma divisao so para assuntos militares, a Milnet</td>
+            </tr>
+            <tr>
+                <td>1984</td>
+                <td>O milesimo servidor e instalado</td>
+            </tr>
+            <tr>
+                <td>1988</td>
+                <td>Jarkko Oikarinen cria o canal de chat IRC</td>
+            </tr>
+            <tr>
+                <td>1989</td>
+                <td>Tim Berners-Lee porpoe o sistema World Wide Web (www) </td>
+            </tr>
+            </table>
+        </fieldset>
+        
+        <center> <a href="file:///D:/Usuario/Desktop/Interface%20Web-Tiago/site%20trabalho02.html">Entra Em Contato</a></center>
+        
+    </body>
+    
+</html>
+            
+        
